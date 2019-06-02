@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Pablo Mandiola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2019 11:33:04 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2019 13:59:55 -0400</lastBuildDate>
     
 	<atom:link href="https://pmandiola.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,21 +21,30 @@
     </item>
     
     <item>
-      <title>Job access effect on housing prices</title>
-      <link>https://pmandiola.github.io/project/nyc-housing-price-jobs/</link>
-      <pubDate>Sun, 02 Jun 2019 11:33:04 -0400</pubDate>
-      
-      <guid>https://pmandiola.github.io/project/nyc-housing-price-jobs/</guid>
-      <description>Estimating housing price change in NYC based on expected new jobs in office developments</description>
-    </item>
-    
-    <item>
       <title>Boiler defects prediction</title>
       <link>https://pmandiola.github.io/project/nyc-boiler-defects/</link>
       <pubDate>Sun, 02 Jun 2019 11:23:35 -0400</pubDate>
       
       <guid>https://pmandiola.github.io/project/nyc-boiler-defects/</guid>
       <description>Application of different machine learning models to identify and predict boiler defects in NYC</description>
+    </item>
+    
+    <item>
+      <title>Studying drug abuse with twitter</title>
+      <link>https://pmandiola.github.io/project/spark-drug-tweets/</link>
+      <pubDate>Sun, 02 Jun 2019 10:53:08 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/project/spark-drug-tweets/</guid>
+      <description>A Spark application to identify the spatial distribution of drug abuse related tweets in major US cities</description>
+    </item>
+    
+    <item>
+      <title>Job access effect on housing prices</title>
+      <link>https://pmandiola.github.io/project/nyc-housing-price-jobs/</link>
+      <pubDate>Sun, 02 Jun 2019 11:33:04 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/project/nyc-housing-price-jobs/</guid>
+      <description>Estimating housing price change in NYC based on expected new jobs in office developments</description>
     </item>
     
     <item>
@@ -48,12 +57,21 @@
     </item>
     
     <item>
-      <title>Studying drug abuse with twitter</title>
-      <link>https://pmandiola.github.io/project/spark-drug-tweets/</link>
-      <pubDate>Sun, 02 Jun 2019 10:53:08 -0400</pubDate>
+      <title>Environment effect on school performance</title>
+      <link>https://pmandiola.github.io/project/pui-final/</link>
+      <pubDate>Sun, 02 Jun 2019 13:59:49 -0400</pubDate>
       
-      <guid>https://pmandiola.github.io/project/spark-drug-tweets/</guid>
-      <description>A Spark application to identify the spatial distribution of drug abuse related tweets in major US cities</description>
+      <guid>https://pmandiola.github.io/project/pui-final/</guid>
+      <description>Modeling school performance of NYC students as a function of crime, drugs, and living conditions</description>
+    </item>
+    
+    <item>
+      <title>Access to green areas by socioeconomic status</title>
+      <link>https://pmandiola.github.io/project/pui-midterm/</link>
+      <pubDate>Sun, 02 Jun 2019 13:59:55 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/project/pui-midterm/</guid>
+      <description>Data analysis to test the hypothesis that diversity is correlated with access to green resources in NYC</description>
     </item>
     
   </channel>
