@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Pablo Mandiola</title>
+    <link>https://pmandiola.github.io/es/authors/</link>
+    <description>Recent content in Authors on Pablo Mandiola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    
+	<atom:link href="https://pmandiola.github.io/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pmandiola.github.io/es/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/authors/admin/</guid>
+      <description>Soy Ingeniero TI aspirante a Data Scientist con 4 años de experiencia implementando productos digitales en el sector público y privado. Me apasiona el poder de los datos, innovación y tecnología para transformar las ciudades y la manera en que el gobierno trabaja para las personas.</description>
+    </item>
+    
+  </channel>
+</rss>

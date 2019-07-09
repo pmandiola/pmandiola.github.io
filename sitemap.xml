@@ -1,88 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/nyc-twitter-wall/</loc>
-    <lastmod>2019-06-01T19:23:42-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/nyc-boiler-defects/</loc>
-    <lastmod>2019-06-02T11:23:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/spark-drug-tweets/</loc>
-    <lastmod>2019-06-02T10:53:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/nyc-housing-price-jobs/</loc>
-    <lastmod>2019-06-02T11:33:04-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/nyc-secondave-subway/</loc>
-    <lastmod>2019-06-02T11:14:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/pui-final/</loc>
-    <lastmod>2019-06-02T13:59:49-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/pui-midterm/</loc>
-    <lastmod>2019-06-02T13:59:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/</loc>
-    <lastmod>2019-06-02T13:59:55-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/project/</loc>
-    <lastmod>2019-06-02T13:59:55-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/authors/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://pmandiola.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://pmandiola.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2019-06-02T13:59:55-04:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://pmandiola.github.io/es/sitemap.xml</loc>
+		
+	   	<lastmod>2019-06-02T13:59:55-04:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

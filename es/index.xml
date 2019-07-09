@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Mandiola</title>
+    <link>https://pmandiola.github.io/es/</link>
+    <description>Recent content on Pablo Mandiola</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 02 Jun 2019 13:59:55 -0400</lastBuildDate>
+    
+	    <atom:link href="https://pmandiola.github.io/es/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NYC Pulse Wall</title>
+      <link>https://pmandiola.github.io/es/project/nyc-twitter-wall/</link>
+      <pubDate>Sat, 01 Jun 2019 19:23:42 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/nyc-twitter-wall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boiler defects prediction</title>
+      <link>https://pmandiola.github.io/es/project/nyc-boiler-defects/</link>
+      <pubDate>Sun, 02 Jun 2019 11:23:35 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/nyc-boiler-defects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying drug abuse with twitter</title>
+      <link>https://pmandiola.github.io/es/project/spark-drug-tweets/</link>
+      <pubDate>Sun, 02 Jun 2019 10:53:08 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/spark-drug-tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job access effect on housing prices</title>
+      <link>https://pmandiola.github.io/es/project/nyc-housing-price-jobs/</link>
+      <pubDate>Sun, 02 Jun 2019 11:33:04 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/nyc-housing-price-jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2nd Ave Subway impact</title>
+      <link>https://pmandiola.github.io/es/project/nyc-secondave-subway/</link>
+      <pubDate>Sun, 02 Jun 2019 11:14:07 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/nyc-secondave-subway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment effect on school performance</title>
+      <link>https://pmandiola.github.io/es/project/pui-final/</link>
+      <pubDate>Sun, 02 Jun 2019 13:59:49 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/pui-final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access to green areas by socioeconomic status</title>
+      <link>https://pmandiola.github.io/es/project/pui-midterm/</link>
+      <pubDate>Sun, 02 Jun 2019 13:59:55 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/pui-midterm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
