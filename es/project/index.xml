@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Pablo Mandiola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Sun, 02 Jun 2019 13:59:55 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 23:12:13 -0400</lastBuildDate>
     
 	<atom:link href="https://pmandiola.github.io/es/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>FDNY EMS response time analysis</title>
+      <link>https://pmandiola.github.io/es/project/fdny-ems-data-exploration/</link>
+      <pubDate>Tue, 09 Jul 2019 23:12:13 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/fdny-ems-data-exploration/</guid>
+      <description>Analysis of FDNY EMS response times to identify patterns using time series analysis and clustering</description>
+    </item>
+    
+    <item>
       <title>Job access effect on housing prices</title>
       <link>https://pmandiola.github.io/es/project/nyc-housing-price-jobs/</link>
       <pubDate>Sun, 02 Jun 2019 11:33:04 -0400</pubDate>
@@ -53,7 +62,7 @@
       <pubDate>Sun, 02 Jun 2019 11:14:07 -0400</pubDate>
       
       <guid>https://pmandiola.github.io/es/project/nyc-secondave-subway/</guid>
-      <description>Timeseries analysis to assess the impact of the NYC Second Ave Subway on taxi ridership</description>
+      <description>Time series analysis to assess the impact of the NYC Second Ave Subway on taxi ridership</description>
     </item>
     
     <item>

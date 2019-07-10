@@ -6,7 +6,7 @@
     <description>Recent content on Pablo Mandiola</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2019 13:59:55 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2019 23:12:13 -0400</lastBuildDate>
     
 	    <atom:link href="https://pmandiola.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,6 +35,15 @@
       <pubDate>Sun, 02 Jun 2019 10:53:08 -0400</pubDate>
       
       <guid>https://pmandiola.github.io/project/spark-drug-tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FDNY EMS response time analysis</title>
+      <link>https://pmandiola.github.io/project/fdny-ems-data-exploration/</link>
+      <pubDate>Tue, 09 Jul 2019 23:12:13 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/project/fdny-ems-data-exploration/</guid>
       <description></description>
     </item>
     
