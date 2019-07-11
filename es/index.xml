@@ -6,7 +6,7 @@
     <description>Recent content on Pablo Mandiola</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 09 Jul 2019 23:12:13 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 21:03:57 -0400</lastBuildDate>
     
 	    <atom:link href="https://pmandiola.github.io/es/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,6 +44,15 @@
       <pubDate>Tue, 09 Jul 2019 23:12:13 -0400</pubDate>
       
       <guid>https://pmandiola.github.io/es/project/fdny-ems-data-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidewalk features extraction with PyTorch</title>
+      <link>https://pmandiola.github.io/es/project/pytorch-sidewalks/</link>
+      <pubDate>Wed, 10 Jul 2019 21:03:57 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/es/project/pytorch-sidewalks/</guid>
       <description></description>
     </item>
     

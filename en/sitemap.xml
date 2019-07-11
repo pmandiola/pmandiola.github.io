@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://pmandiola.github.io/project/pytorch-sidewalks/</loc>
+    <lastmod>2019-07-10T21:03:57-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pmandiola.github.io/es/project/pytorch-sidewalks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pmandiola.github.io/project/pytorch-sidewalks/"
+                />
+  </url>
+  
+  <url>
     <loc>https://pmandiola.github.io/project/nyc-housing-price-jobs/</loc>
     <lastmod>2019-06-02T11:33:04-04:00</lastmod>
     <xhtml:link
@@ -124,7 +139,7 @@
   
   <url>
     <loc>https://pmandiola.github.io/</loc>
-    <lastmod>2019-07-09T23:12:13-04:00</lastmod>
+    <lastmod>2019-07-10T21:03:57-04:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -140,7 +155,7 @@
   
   <url>
     <loc>https://pmandiola.github.io/project/</loc>
-    <lastmod>2019-07-09T23:12:13-04:00</lastmod>
+    <lastmod>2019-07-10T21:03:57-04:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

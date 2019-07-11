@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Pablo Mandiola</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2019 23:12:13 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 21:03:57 -0400</lastBuildDate>
     
 	<atom:link href="https://pmandiola.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -45,6 +45,15 @@
       
       <guid>https://pmandiola.github.io/project/fdny-ems-data-exploration/</guid>
       <description>Analysis of FDNY EMS response times to identify patterns using time series analysis and clustering</description>
+    </item>
+    
+    <item>
+      <title>Sidewalk features extraction with PyTorch</title>
+      <link>https://pmandiola.github.io/project/pytorch-sidewalks/</link>
+      <pubDate>Wed, 10 Jul 2019 21:03:57 -0400</pubDate>
+      
+      <guid>https://pmandiola.github.io/project/pytorch-sidewalks/</guid>
+      <description>Identification and classification of sidewalk features using PyTorch and Google Street View</description>
     </item>
     
     <item>
